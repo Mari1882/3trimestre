@@ -1,0 +1,14 @@
+body {
+    background-color: #E4F1FF;
+}
+
+#Titulo {
+    color: #0E21A0;
+    Font-size: 50px;
+    text-align: center;
+}
+
+.texto {
+    color: #362FD9;
+    font-size: 30px;
+    text-align: justify;
