@@ -1,9 +1,9 @@
 body {
-    background-color: #0371e7d3;
+    background-color: #a7c9eed3;
 }
 
 #Titulo {
-    color: #5b49c5;
+    color: #4631c0;
     Font-size: 50px;
     text-align: center;
 }
@@ -19,5 +19,5 @@ body {
     width: 150px;
     padding: 5px;
     margin: 5px;
-    border: 2px groove  #038624;
+    border: 2px groove  #03862488;
     border-radius: 20px;
